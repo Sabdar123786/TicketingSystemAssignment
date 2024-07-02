@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ﻿using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -44,4 +44,4 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
->>>>>>> 466efa6186c9c55ad811ba339b31c04e0de52d8d
+
